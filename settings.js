@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['𝙺𝙰𝚅𝙸𝙽𝙳𝚄 𝙳𝙸𝙻𝚂𝙷𝙰𝙽🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤𝙺𝙰𝚅𝙸𝚈𝙰𝙷 𝙳𝚁𝙰𝙺 𝙽𝙴𝚆𝚃 𝙱𝙾𝚃🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94703392141'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'ᴹᴿ𝙱𝙾𝚂𝙰〠⃞𝙺𝙰𝚅𝙸𝙽𝙳𝚄 𝙳𝙸𝙻𝚂𝙷𝙰𝙽〠⃞🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤𝙺𝙰𝚅𝙸𝚈𝙰𝙷 𝙳𝚁𝙰𝙺 𝙽𝙴𝚆𝚃 𝙱𝙾𝚃🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©𝙺𝙰𝚅𝙸𝙽𝙳𝚄 𝙳𝙸𝙻𝚂𝙷𝙰𝙽🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://github.com/Shaggy221/Kaviyahofc'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = 'https://github.com/Shaggy221/Kaviyahofc'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'http://wa.me/94703392141'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤𝙺𝙰𝚅𝙸𝚈𝙰𝙷 𝙳𝚁𝙰𝙺 𝙽𝙴𝚆𝚃 𝙱𝙾𝚃🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤𝙺𝙰𝚅𝙸𝚈𝙰𝙷 𝙳𝚁𝙰𝙺 𝙽𝙴𝚆𝚃 𝙱𝙾𝚃🖤'
 
 global.sessionName = 'session'
 
